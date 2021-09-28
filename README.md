@@ -6,6 +6,5 @@
 >Methods, Techniques, and Practice 
 
 
-
-
+>> LA Native, First Generation Mexican-American interested in Community & Regional Economic Development, Housing, Equity, Education, and Social Justice. 
 Project using newest released US CENSUS data to examine demographic changes within LA COUNTY.
