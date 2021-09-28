@@ -8,4 +8,4 @@
 
 
 
-Project using newest released US CENSUS data to examine the socioeconomic demographic changes within LA COUNTY and local public school performance levels. 
+Project using newest released US CENSUS data to examine demographic changes within LA COUNTY.
