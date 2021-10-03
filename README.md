@@ -1,7 +1,7 @@
 # Luis Daniel Cruz
 ##### UCLA Luskin School of Public Affairs
 ##### Masters of Urban & Regional Planning Candidate '22
-#####GIS and Spatial Data Science
+##### GIS and Spatial Data Science
 
 
 LA Native, First Generation Mexican-American interested in Community & Regional Economic Development, Housing, Equity, Education, and Social Justice. 
