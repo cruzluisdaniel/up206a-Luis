@@ -1,0 +1,181 @@
+CostCenterCode,LocationCode,CDSCode,School,SchoolYear,NumberInCohort,NumberOfDropouts,CohortDropoutRate
+NA,N001,1.96473E+13,Non-Public,2018-19,300,216,72%
+1859801,8598,1.96473E+13,Whitney Young Continuation High,2018-19,40,23,58%
+1890901,8909,1.96473E+13,Phoenix Continuation High,2018-19,46,25,54%
+1880701,8807,1.96473E+13,Ramona Opportunity High School,2018-19,19,10,53%
+1194401,1944,1.96473E+13,Berenece Carlson Home Hospital School,2018-19,82,42,51%
+1867701,8677,1.96473E+13,Monterey Continuation High,2018-19,32,16,50%
+1865201,8652,1.96473E+13,John Hope Continuation High,2018-19,35,17,49%
+1875701,8757,1.96473E+13,Metropolitan Continuation High,2018-19,42,20,48%
+1809201,8092,1.96473E+13,Jack London Community Day School,2018-19,24,11,46%
+1860201,8602,1.96473E+13,View Park Continuation High,2018-19,41,18,44%
+1880101,8801,1.96473E+13,City of Angels Independent Studies,2018-19,684,297,43%
+1858501,8585,1.96473E+13,Stoney Point Continuation High,2018-19,60,26,43%
+1776101,7761,1.96473E+13,Dorothy V Johnson Community Day School,2018-19,58,25,43%
+1885201,8852,1.96473E+13,Angel's Gate Continuation High,2018-19,70,30,43%
+1893001,8930,1.96473E+13,Duke Ellington Continuation High,2018-19,52,22,42%
+1877701,8777,1.96473E+13,Frida Kahlo Continuation High,2018-19,78,31,40%
+1873001,8730,1.96473E+13,West Hollywood Community Day School,2018-19,26,10,39%
+1864501,8645,1.96473E+13,Highland Park Continuation High,2018-19,47,18,38%
+1872301,8723,1.96473E+13,Simon Rodia Continuation High,2018-19,187,70,37%
+1881601,8816,1.96473E+13,Zane Grey Continuation High,2018-19,52,19,37%
+1887301,8873,1.96473E+13,Odyssey Continuation High,2018-19,62,22,36%
+1866601,8666,1.96473E+13,Moneta Continuation High,2018-19,31,11,36%
+1853101,8531,1.96473E+13,Dan M Isaacs Avalon High School,2018-19,43,15,35%
+1883101,8831,1.96473E+13,Boyle Heights Continuation High,2018-19,45,15,33%
+1891601,8916,1.96473E+13,Mount Lukens Continuation High,2018-19,12,4,33%
+1854301,8543,1.96473E+13,Belmont Senior High,2018-19,302,99,33%
+1868501,8685,1.96473E+13,Jack London Continuation High,2018-19,53,17,32%
+1858901,8589,1.96473E+13,William J Johnston Community Day School,2018-19,41,13,32%
+1191701,1917,1.96473E+13,Thomas Riley High School - CYESIS,2018-19,32,10,31%
+1878101,8781,1.96473E+13,George S Patton Continuation High,2018-19,36,11,31%
+1894801,8948,1.96473E+13,Youth Opportunities Unlimited,2018-19,168,51,30%
+1858001,8580,1.96473E+13,Central Continuation High,2018-19,297,85,29%
+1887601,8876,1.96473E+13,Evergreen Continuation High,2018-19,53,15,28%
+1850601,8506,1.96473E+13,Aggeler Community Day School,2018-19,39,11,28%
+1889501,8895,1.96473E+13,Will Rogers Continuation High,2018-19,82,23,28%
+1766601,7666,1.96473E+13,Augustus F Hawkins SH - Responsible Indigenous Soc Entrprenr,2018-19,96,26,27%
+1850701,8507,1.96473E+13,William Tell Aggeler Opportunity High School,2018-19,37,10,27%
+1857301,8573,1.96473E+13,Owensmouth Continuation High,2018-19,55,14,26%
+1877001,8770,1.96473E+13,Albert Einstein Continuation High School,2018-19,59,15,25%
+1888301,8883,1.96473E+13,Henry David Thoreau Continuation High,2018-19,59,15,25%
+1872101,8721,1.96473E+13,David Starr Jordan Senior High,2018-19,99,25,25%
+1862301,8623,1.96473E+13,Whitman Continuation High,2018-19,41,10,24%
+1772201,7722,1.96473E+13,Dr Maya Angelou Community Senior High,2018-19,236,57,24%
+1867001,8670,1.96473E+13,Richard A Alonzo Community Day School,2018-19,50,12,24%
+1854501,8545,1.96473E+13,Harris Newmark Continuation High,2018-19,92,22,24%
+1870201,8702,1.96473E+13,San Antonio Continuation High,2018-19,100,23,23%
+1859101,8591,1.96473E+13,John R Wooden High School,2018-19,58,13,22%
+1771801,7718,1.96473E+13,Diego Rivera Learning Complex Communication & Technology,2018-19,131,29,22%
+1899101,8991,1.96473E+13,Tri-C Community Day School,2018-19,120,26,22%
+1777101,7771,1.96473E+13,RFK Comm Schls - Ambassador School - Global Leadership,2018-19,83,17,21%
+1820701,8207,1.96473E+13,Miguel Contreras Learning Complex - Acdemic Ldrshp Community,2018-19,114,23,20%
+1852701,8527,1.96473E+13,Miguel Contreras Learning Complex - School of Social Justice,2018-19,99,20,20%
+1861201,8612,1.96473E+13,Cal Burke High School,2018-19,111,22,20%
+1877401,8774,1.96473E+13,Miguel Contreras Learning Complex - LA Sch of Global Studies,2018-19,81,16,20%
+1869601,8696,1.96473E+13,Helen Bernstein Senior High,2018-19,157,30,19%
+1873601,8736,1.96473E+13,Los Angeles Senior High,2018-19,313,59,19%
+1873101,8731,1.96473E+13,Pueblo De Los Angeles Continuation High,2018-19,48,9,19%
+1860001,8600,1.96473E+13,Susan Miller Dorsey Senior High,2018-19,257,48,19%
+1766701,7667,1.96473E+13,Mervyn M Dymally Senior High,2018-19,130,24,19%
+1766501,7665,1.96473E+13,Augustus F Hawkins SH - Community Health Advocates School,2018-19,109,20,18%
+1892801,8928,1.96473E+13,George Washington Preparatory Senior High,2018-19,214,39,18%
+1857801,8578,1.96473E+13,Eagle Tree Continuation High,2018-19,44,8,18%
+1878801,8788,1.96473E+13,Amelia Earhart Continuation High School,2018-19,39,7,18%
+1859601,8596,1.96473E+13,Crenshaw Magnets: Science Tech Engineer Math & Medicine,2018-19,214,38,18%
+1774901,7749,1.96473E+13,Theodore Roosevelt Senior High,2018-19,317,56,18%
+1865001,8650,1.96473E+13,John C Fremont Senior High,2018-19,510,89,18%
+1850101,8501,1.96473E+13,RFK Comm Schls - Los Angeles High School of the Arts,2018-19,120,21,18%
+1868801,8688,1.96473E+13,Cheviot Hills Continuation High,2018-19,60,10,17%
+1809301,8093,1.96473E+13,Sun Valley Senior High,2018-19,110,18,16%
+1890701,8907,1.96473E+13,Venice Senior High,2018-19,474,75,16%
+1884501,8845,1.96473E+13,Mission Continuation High,2018-19,51,8,16%
+1863801,8638,1.96473E+13,Robert H Lewis Continuation High,2018-19,45,7,16%
+1855901,8559,1.96473E+13,Independence Continuation High,2018-19,58,9,16%
+1195701,1957,1.96473E+13,Ernest P Willenberg Special Education Center,2018-19,13,2,15%
+1871401,8714,1.96473E+13,Thomas Jefferson Senior High,2018-19,148,22,15%
+1775201,7752,1.96473E+13,Hilda L Solis Learning Academy,2018-19,81,12,15%
+1853601,8536,1.96473E+13,Bell Senior High,2018-19,696,101,15%
+1876801,8768,1.96473E+13,James Monroe Senior High,2018-19,558,81,15%
+1874801,8748,1.96473E+13,West Adams Preparatory Senior High,2018-19,333,48,14%
+1766401,7664,1.96473E+13,Legacy Senior High Visual and Performing Arts,2018-19,117,16,14%
+1772101,7721,1.96473E+13,Diego Rivera Learning Complex Performing Arts,2018-19,141,19,14%
+1868301,8683,1.96473E+13,Ulysses S Grant Senior High,2018-19,491,65,13%
+1874301,8743,1.96473E+13,Manual Arts Senior High,2018-19,424,56,13%
+1871301,8713,1.96473E+13,Augustus F Hawkins SH - Critical Design and Gaming School,2018-19,131,17,13%
+1888201,8882,1.96473E+13,Maywood Academy Senior High,2018-19,302,39,13%
+1820601,8206,1.96473E+13,RFK Comm Schls - School for Visual Arts and Humanities,2018-19,116,15,13%
+1861001,8610,1.96473E+13,Panorama Senior High,2018-19,277,34,12%
+NA,NA,1.96473E+13,LAUSD,2018-19,34463,4199,12%
+1889301,8893,1.96473E+13,Van Nuys Senior High,2018-19,629,77,12%
+1870001,8700,1.96473E+13,Huntington Park Senior High,2018-19,361,44,12%
+1870101,8701,1.96473E+13,International Studies Learning Center,2018-19,91,11,12%
+1777301,7773,1.96473E+13,Esteban Torres HS - Engineer & Technology Academy,2018-19,77,9,12%
+1761501,7615,1.96473E+13,Boyle Heights Science Tech Engin Math High School,2018-19,43,5,12%
+1778301,7783,1.96473E+13,RFK Comm Schls - New Open World Academy K-12,2018-19,87,10,12%
+1872601,8726,1.96473E+13,Jane Addams Continuation High,2018-19,52,6,12%
+1854401,8544,1.96473E+13,Edward R Roybal Learning Center,2018-19,251,28,11%
+1765801,7658,1.96473E+13,Sylmar Biotech Health Academy,2018-19,54,6,11%
+1866401,8664,1.96473E+13,Gardena Senior High,2018-19,331,36,11%
+1777701,7777,1.96473E+13,Esteban Torres HS - Social Justice Leadership Academy,2018-19,92,10,11%
+1886701,8867,1.96473E+13,Diego Rivera Learning Complex Public Service Community,2018-19,157,17,11%
+1851701,8517,1.96473E+13,Miguel Contreras Learning Complex - Business and Tourism,2018-19,111,12,11%
+1871601,8716,1.96473E+13,Santee Education Complex,2018-19,455,48,11%
+1778001,7780,1.96473E+13,RFK Comm Schls - UCLA Community School K-12,2018-19,105,11,11%
+1890101,8901,1.96473E+13,Cesar E Chavez Learning Academy - Technology Preparatory Aca,2018-19,86,9,11%
+1883801,8838,1.96473E+13,Narbonne SH-Humanities & Arts (HArts) Academy of Los Angeles,2018-19,115,12,10%
+1869301,8693,1.96473E+13,Hollywood Senior High,2018-19,383,39,10%
+1857101,8571,1.96473E+13,Canoga Park Senior High,2018-19,287,29,10%
+1761401,7614,1.96473E+13,Nava College Preparatory Academy,2018-19,171,17,10%
+1777201,7772,1.96473E+13,Esteban Torres HS - East Los Angeles Renaissance Academy,2018-19,102,10,10%
+1354801,3548,1.96473E+13,Elizabeth Learning Center,2018-19,162,15,9%
+1860701,8607,1.96473E+13,East Valley Senior High,2018-19,132,12,9%
+1872901,8729,1.96473E+13,Abraham Lincoln Senior High,2018-19,222,20,9%
+1857701,8577,1.96473E+13,Sonia Sotomayor Arts & Science Academies,2018-19,104,9,9%
+1884301,8843,1.96473E+13,San Fernando Senior High,2018-19,478,40,8%
+1864301,8643,1.96473E+13,Benjamin Franklin High School,2018-19,322,26,8%
+1877901,8779,1.96473E+13,Nathaniel Narbonne Senior High,2018-19,535,43,8%
+1862101,8621,1.96473E+13,Fairfax Senior High,2018-19,408,30,7%
+1868601,8686,1.96473E+13,Alexander Hamilton Senior High,2018-19,625,45,7%
+1191801,1918,1.96473E+13,Harold McAlister High School CYESIS,2018-19,56,4,7%
+1861101,8611,1.96473E+13,Felicitas And Gonzalo Mendez Senior High,2018-19,254,17,7%
+1194901,1949,1.96473E+13,Marlton School,2018-19,15,1,7%
+1859001,8590,1.96473E+13,Grover Cleveland Charter High School,2018-19,726,48,7%
+1863601,8636,1.96473E+13,John H Francis Polytechnic Senior High,2018-19,682,44,7%
+1875001,8750,1.96473E+13,John Marshall Senior High,2018-19,567,37,7%
+1857501,8575,1.96473E+13,Carson Senior High,2018-19,353,23,7%
+1771901,7719,1.96473E+13,Diego Rivera Learning Complex Green Design STEAM Academy,2018-19,108,7,7%
+1852901,8529,1.96473E+13,Phineas Banning Senior High,2018-19,550,35,6%
+1858301,8583,1.96473E+13,Chatsworth Charter High School,2018-19,419,27,6%
+1894301,8943,1.96473E+13,Westchester Enriched Sciences Magnets-Health/Sports Med Mag,2018-19,187,12,6%
+1814201,8142,1.96473E+13,Robert Fulton College Preparatory School,2018-19,159,10,6%
+1881401,8814,1.96473E+13,Reseda Charter High School,2018-19,369,23,6%
+1887101,8871,1.96473E+13,South Gate Senior High,2018-19,608,37,6%
+1861801,8618,1.96473E+13,Woodrow Wilson Senior High,2018-19,358,22,6%
+1888101,8881,1.96473E+13,South East Senior High,2018-19,400,21,5%
+1891401,8914,1.96473E+13,Verdugo Hills Senior High,2018-19,339,18,5%
+1885001,8850,1.96473E+13,San Pedro Senior High,2018-19,498,26,5%
+1766901,7669,1.96473E+13,Linda Esperanza Marquez Senior High Social Justice,2018-19,135,7,5%
+1878601,8786,1.96473E+13,North Hollywood Senior High,2018-19,593,29,5%
+1888001,8880,1.96473E+13,William Howard Taft Charter High School,2018-19,574,27,5%
+1777501,7775,1.96473E+13,Esteban Torres HS - Humanitas Academy of Art & Technology,2018-19,86,4,5%
+1190801,1908,1.96473E+13,Diane S Leichman Career Preparatory and Transition Center,2018-19,22,1,5%
+1867901,8679,1.96473E+13,James A Garfield Senior High,2018-19,608,27,4%
+1860901,8609,1.96473E+13,Arleta Senior High,2018-19,309,13,4%
+1861401,8614,1.96473E+13,Eagle Rock High School,2018-19,420,17,4%
+1851601,8516,1.96473E+13,Ramon C Cortines School of Visual & Performing Arts,2018-19,337,13,4%
+1892101,8921,1.96473E+13,Legacy Senior High Sci Tech Engineering Arts Math,2018-19,140,5,4%
+1886601,8866,1.96473E+13,Linda Esperanza Marquez Senior High HPIAM,2018-19,142,5,4%
+1884201,8842,1.96473E+13,Sherman Oaks Center for Enriched Studies (SOCES) Magnet,2018-19,245,8,3%
+1872701,8727,1.96473E+13,King-Drew Senior High Medicine and Science Magnet,2018-19,343,10,3%
+1886801,8868,1.96473E+13,Rancho Dominguez Preparatory School,2018-19,137,4,3%
+1771601,7716,1.96473E+13,Cesar E Chavez Learning Academy - Social Jst Humanitas Acad,2018-19,102,3,3%
+1771701,7717,1.96473E+13,Cesar E Chavez Learning Academy - Academy of Sci Exploration,2018-19,104,3,3%
+1874101,8741,1.96473E+13,Los Angeles Center for Enriched Studies (LACES) Magnet,2018-19,218,6,3%
+1839601,8396,1.96473E+13,Sun Valley Magnet: Engineering Technology,2018-19,72,2,3%
+1871001,8710,1.96473E+13,Early College Academy - LA Trade Tech College,2018-19,36,1,3%
+1887801,8878,1.96473E+13,Sylmar Charter High School,2018-19,401,11,3%
+1771501,7715,1.96473E+13,Cesar E Chavez Learning Academy - Arts/Theatre/Entertain Mag,2018-19,79,2,3%
+1888601,8886,1.96473E+13,University High School Charter,2018-19,352,8,2%
+1876001,8760,1.96473E+13,Middle College High School,2018-19,87,2,2%
+1891701,8917,1.96473E+13,Maywood Center for Enriched Studies (MaCES) Magnet,2018-19,107,2,2%
+1873801,8738,1.96473E+13,Downtown Business Magnet,2018-19,220,4,2%
+1872501,8725,1.96473E+13,John F Kennedy Senior High,2018-19,479,8,2%
+1765601,7656,1.96473E+13,Carson Senior High - Academy of Medical Arts,2018-19,116,2,2%
+1855801,8558,1.96473E+13,Daniel Pearl Senior High Journalism & Communications Magnet,2018-19,75,1,1%
+1860601,8606,1.96473E+13,Esteban Torres HS - East Los Angeles Performing Arts Magnet,2018-19,89,1,1%
+1775101,7751,1.96473E+13,Roosevelt Senior High Science/Tech/Math Magnet,2018-19,104,1,1%
+1889801,8898,1.96473E+13,Valley Academy of Arts and Sciences,2018-19,259,2,1%
+1773401,7734,1.96473E+13,Helen Bernstein Senior High Science Tech Engineering Math,2018-19,127,1,1%
+1765701,7657,1.96473E+13,Carson Senior High - Academy of Education and Empowerment,2018-19,127,1,1%
+1772501,7725,1.96473E+13,Linda Esperanza Marquez Senior High Libra Academy,2018-19,142,1,1%
+1885301,8853,1.96473E+13,Orthopaedic Hospital Senior High Medical Magnet,2018-19,182,1,1%
+1851301,8513,1.96473E+13,Northridge Academy Senior High,2018-19,250,1,0%
+1875401,8754,1.96473E+13,Francisco Bravo Senior High Medical Magnet,2018-19,420,1,0%
+1195301,1953,1.96473E+13,Alfonso B Perez Special Education Center,2018-19,11,0,0%
+1713701,7137,1.96473E+13,32nd Street USC Performing Arts Magnet,2018-19,73,0,0%
+1813201,8132,1.96473E+13,Foshay Learning Center,2018-19,164,0,0%
+1191401,1914,1.96473E+13,Joseph Pomeroy Widney Career Preparatory & Transition Center,2018-19,16,0,0%
+1739001,7390,1.96473E+13,Lake Balboa College Preparatory Magnet K-12,2018-19,29,0,0%
+1194801,1948,1.96473E+13,Charles Leroy Lowman Special Ed & Career Transition Center,2018-19,12,0,0%
+1851801,8518,1.96473E+13,Dr Richard A Vladovic Harbor Teacher Preparation Academy,2018-19,118,0,0%
