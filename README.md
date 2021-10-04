@@ -1,5 +1,4 @@
-# About Me 
-
+# About Me :bust_in_silhouette:	
 My name is Luis Daniel Cruz (he/him/el), I am a second-year Master of Urban and Regional Planning Candidate at the UCLA Luskin School of Public Affairs. My concentrations are Community and Regional Economic Development. Before transitioning into the field of planning, I worked as a public school teacher here in Los Angeles. During my free time I enjoy exercising and exploring new places. I am a native Angeleno born and raised in Unincorporated East LA, I am a proud firstgen double-bruin + community college transfer student + product of LAUSD + son of migrants.  
 
 # Project Idea
